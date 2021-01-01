@@ -2,9 +2,17 @@
 
 I am a research scientist with wide range of skills in field, laboratory, and computational biology.
 
+I use these technologies and tools daily:
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=Shell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
+
+I have a basic understanding and am working on improving my skills on the following:
+
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Singularity-informational?style=flat&logo=Singularity&logoColor=white&color=2bbc8a)
+
 
 I like traveling, hiking, and exploring local restaurants. In my latest solo trip, I visited Monument Valley, UT.
 ![Header](header.png "Header")
