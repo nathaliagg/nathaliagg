@@ -2,7 +2,7 @@
 
 I am a research scientist with wide range of skills in field, laboratory, and computational biology.
 
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
 I like traveling, hiking, and exploring local restaurants. In my latest solo trip, I visited Monument Valley, UT.
 ![Header](header.png "Header")
